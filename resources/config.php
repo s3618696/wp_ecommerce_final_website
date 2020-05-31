@@ -1,5 +1,9 @@
-<?php 
+<!--  RMIT University
+Khuc Thi Xuan Quyen - s3618696
+The host link for this website is kxquyen.epizy.com/public 
+-->
 
+<?php 
 
 // ob_start();
 
@@ -15,14 +19,14 @@ defined("UPLOAD_DIRECTORY") ? null : define("UPLOAD_DIRECTORY", __DIR__ . DS . "
 
 
 //database
-defined("DB_HOST") ? null : define("DB_HOST", "localhost");
+defined("DB_HOST") ? null : define("DB_HOST", "sql303.epizy.com");
 
-defined("DB_USER") ? null : define("DB_USER","root");
+defined("DB_USER") ? null : define("DB_USER","epiz_25905948");
 
 
-defined("DB_PASS") ? null : define("DB_PASS", "root");
+defined("DB_PASS") ? null : define("DB_PASS", "x9VSwQq0Jyg");
 
-defined("DB_NAME") ? null : define("DB_NAME",  "ecom_db");
+defined("DB_NAME") ? null : define("DB_NAME",  "epiz_25905948_kxquyen");
 
 
 

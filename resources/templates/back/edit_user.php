@@ -1,3 +1,8 @@
+<!--  RMIT University
+Khuc Thi Xuan Quyen - s3618696
+The host link for this website is kxquyen.epizy.com/public 
+-->
+
 <?php 
 if(isset($_GET['edit_user_id'])) {
     $query = query("SELECT * FROM users WHERE user_id = " . escape_string($_GET['edit_user_id']) . " ");

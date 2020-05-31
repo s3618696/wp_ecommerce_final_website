@@ -1,3 +1,7 @@
+<!--  RMIT University
+Khuc Thi Xuan Quyen - s3618696
+The host link for this website is kxquyen.epizy.com/public 
+-->
 
 <?php 
 if(isset($_GET['edit_product_id'])) {

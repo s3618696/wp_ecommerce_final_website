@@ -1,3 +1,8 @@
+<!--  RMIT University
+Khuc Thi Xuan Quyen - s3618696
+The host link for this website is kxquyen.epizy.com/public 
+-->
+
 <?php add_product(); ?>
 
 <div class="col-md-12">
